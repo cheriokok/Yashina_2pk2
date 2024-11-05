@@ -13,7 +13,8 @@ namespace NARY
             int a = 12;
             int b = 14562;
             
-            Console.WriteLine(a);
+            Console.WriteLine("attempt" + a);
+            Console.ReadLine();
 
         }
     }
