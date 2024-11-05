@@ -12,7 +12,7 @@ namespace NARY
         {
             int a = 12;
             int b = 14562;
-            int c = 238;
+            
             Console.WriteLine(a);
 
         }
